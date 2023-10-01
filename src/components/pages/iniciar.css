@@ -1,0 +1,66 @@
+
+.imagen8 {
+    max-width: 100%;
+    display: block; /* Para centrar horizontalmente */
+    margin: 0 auto; /* Para centrar horizontalmente */
+    margin-bottom: 10px; 
+    height: auto;
+  }
+
+form {
+    text-align: center; /* Centra el contenido horizontalmente */
+    margin-top: 150px; /* Ajusta la distancia hacia abajo */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Las letras de Usuario y Contraseña de afueritaa */
+label {
+    width: 100%; 
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: center; 
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    max-width: 300px; /* Ancho máximo ajustado */
+    padding: 10px;
+    margin: 0 auto; /* Centra horizontalmente los campos de entrada */
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+/* Estilos para el botón de inicio de sesión */
+button[type="submit"] {
+    background-color: #4d4dff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+/* Estilos para el botón de inicio de sesión al pasar el cursor */
+button[type="submit"]:hover {
+    background-color: #35228c;
+}
+
+  

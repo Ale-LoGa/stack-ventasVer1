@@ -1,0 +1,20 @@
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+    position: relative;
+    left: 70%; /* Establece la posición inicial fuera de la pantalla */
+    /* transition: left 0.3s ease; */
+;
+}
+
+/* Estilo para la barra de navegación fija */
+.navbar-fixed {
+    border-radius: 0%;
+    background-color: 806f6f;
+    position: fixed;
+    top: 0; /* Coloca la barra en la parte superior de la página */
+    width: 100%; /* Ocupa todo el ancho de la página */
+    z-index: 100; /* Asegura que esté por encima de otros elementos */
+  }
+  

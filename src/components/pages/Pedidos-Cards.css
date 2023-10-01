@@ -1,0 +1,14 @@
+.Pedidos-Cards{
+    height: 100vh;    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(107,145,210,1) 0%, rgba(87,75,75,1) 100%);
+}
+
+.titulitos1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    bottom: 20px;
+    font-size: 20px;
+    margin-top: 85px;
+    color: #000000;
+}
